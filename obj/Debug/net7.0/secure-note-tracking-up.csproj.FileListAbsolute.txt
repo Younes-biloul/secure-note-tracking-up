@@ -1,0 +1,15 @@
+E:\Downloads\Desktop\DOTNET\secure-note-tracking-up\bin\Debug\net7.0\secure-note-tracking-up.exe
+E:\Downloads\Desktop\DOTNET\secure-note-tracking-up\bin\Debug\net7.0\secure-note-tracking-up.deps.json
+E:\Downloads\Desktop\DOTNET\secure-note-tracking-up\bin\Debug\net7.0\secure-note-tracking-up.runtimeconfig.json
+E:\Downloads\Desktop\DOTNET\secure-note-tracking-up\bin\Debug\net7.0\secure-note-tracking-up.dll
+E:\Downloads\Desktop\DOTNET\secure-note-tracking-up\bin\Debug\net7.0\secure-note-tracking-up.pdb
+E:\Downloads\Desktop\DOTNET\secure-note-tracking-up\obj\Debug\net7.0\secure-note-tracking-up.csproj.AssemblyReference.cache
+E:\Downloads\Desktop\DOTNET\secure-note-tracking-up\obj\Debug\net7.0\secure-note-tracking-up.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\Desktop\DOTNET\secure-note-tracking-up\obj\Debug\net7.0\secure-note-tracking-up.AssemblyInfoInputs.cache
+E:\Downloads\Desktop\DOTNET\secure-note-tracking-up\obj\Debug\net7.0\secure-note-tracking-up.AssemblyInfo.cs
+E:\Downloads\Desktop\DOTNET\secure-note-tracking-up\obj\Debug\net7.0\secure-note-tracking-up.csproj.CoreCompileInputs.cache
+E:\Downloads\Desktop\DOTNET\secure-note-tracking-up\obj\Debug\net7.0\secure-note-tracking-up.dll
+E:\Downloads\Desktop\DOTNET\secure-note-tracking-up\obj\Debug\net7.0\refint\secure-note-tracking-up.dll
+E:\Downloads\Desktop\DOTNET\secure-note-tracking-up\obj\Debug\net7.0\secure-note-tracking-up.pdb
+E:\Downloads\Desktop\DOTNET\secure-note-tracking-up\obj\Debug\net7.0\secure-note-tracking-up.genruntimeconfig.cache
+E:\Downloads\Desktop\DOTNET\secure-note-tracking-up\obj\Debug\net7.0\ref\secure-note-tracking-up.dll
